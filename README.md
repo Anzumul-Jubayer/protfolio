@@ -87,7 +87,7 @@ portfolio/
 
 ## Contact
 
-- **Email**: anzumuljubayer222@gmail.com
+
 - **LinkedIn**: [anzumul-jubayer23](https://www.linkedin.com/in/anzumul-jubayer23)
 - **GitHub**: [Anzumul-Jubayer](https://github.com/Anzumul-Jubayer)
 
